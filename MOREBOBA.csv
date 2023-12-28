@@ -1,0 +1,4 @@
+num,id,name,rating,address,city,lat,long,yelpcost,websiteprovided,yelpphone,url
+0,99-tea-house-fremont-2,99% Tea House,4.5,3623 Thornton Ave,Fremont,37.56295,-122.01004,$,True,(510) 509-2315,https://www.yelp.com/biz/99-tea-house-fremont-2
+1,one-tea-fremont-2,One Tea,4.5,46809 Warm Springs Blvd,Fremont,37.48906669,-121.9294138,$,True,(510) 969-9032,https://www.yelp.com/biz/one-tea-fremont-2
+2,royaltea-usa-fremont,Royaltea USA,4,38509 Fremont Blvd,Fremont,37.55131513,-121.9938498,$$,True,(510) 818-0618,https://www.yelp.com/biz/royaltea-usa-fremont
